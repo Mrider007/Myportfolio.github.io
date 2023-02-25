@@ -70,3 +70,6 @@ body{
     display: flex;
     justify-content: center;
 }
+.ma{
+    margin-top: 8px;
+}
