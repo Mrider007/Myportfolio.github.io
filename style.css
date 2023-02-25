@@ -73,3 +73,8 @@ body{
 .ma{
     margin-top: 8px;
 }
+.Right-nav{
+    display: flex;
+    margin-top: 3px;
+
+}
